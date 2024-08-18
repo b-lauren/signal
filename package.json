@@ -1,0 +1,15 @@
+{
+  "name": "signal-date-cli",
+  "version": "1.0.0",
+  "description": "Number to English phrase",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script",
+     "test": "jest"
+  },
+  "author": "Rebecca Ross",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
